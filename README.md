@@ -1,6 +1,5 @@
 # 👋 Ole Kristian Vange Helle
 
-![AI Banner](https://raw.githubusercontent.com/aleen42/PersonalWiki/master/images/ai.png)
 Bachelor’s Student in Artificial Intelligence from Bergen, Norway
 
 ---
@@ -42,10 +41,6 @@ Bachelor’s Student in Artificial Intelligence from Bergen, Norway
 ## 🧠 Projects & Research
 
 ![Project](https://img.icons8.com/fluency/96/000000/artificial-intelligence.png)
-
-**🔍 Python Code Quality Analyzer** – *Bachelor’s Thesis*  
-Developed static analysis tools for detecting Python “code smells” to promote best practices and cleaner architecture.
-
 **🤖 AI Coursework Projects**  
 Built machine learning models using supervised learning techniques, focused on data preprocessing and performance tuning.
 
