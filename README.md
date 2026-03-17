@@ -8,7 +8,7 @@ Bachelor’s Student in Artificial Intelligence from Bergen, Norway
 
 ![Education Icon](https://img.icons8.com/color/48/000000/graduation-cap.png)  
 **Bachelor of Science in Artificial Intelligence**  
-*University of Bergen* | *August 2021 – June 2025*  
+*University of Bergen*  
 
 - Core areas: Python programming, algorithms, data structures, machine learning, and database systems  
 - **Bachelor’s thesis:** *Tools for Detecting "Code Smells" in Python*
