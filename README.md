@@ -1,4 +1,4 @@
-# 👋 Ole Kristian Vange Helle
+# Ole Kristian Vange Helle
 
 Bachelor’s Student in Artificial Intelligence from Bergen, Norway
 
