@@ -1,7 +1,6 @@
 # Ole Kristian Vange Helle
 
-Bachelor’s Student in Artificial Intelligence from Bergen, Norway
-
+BSc in Artificial Intelligence | University of Bergen, Norway
 ---
 
 ## 🎓 Education
