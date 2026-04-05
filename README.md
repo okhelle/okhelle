@@ -1,69 +1,79 @@
 # Ole Kristian Vange Helle
 
-BSc in Artificial Intelligence | University of Bergen, Norway
+BSc in Artificial Intelligence (Informatics)  
+University of Bergen, Norway  
+
 ---
 
-## 🎓 Education
+## 👋 About Me
 
-![Education Icon](https://img.icons8.com/color/48/000000/graduation-cap.png)  
-**Bachelor of Science in Artificial Intelligence**  
-*University of Bergen*  
+Recent graduate with a Bachelor's degree in Artificial Intelligence, with experience in React, JavaScript/TypeScript and Python. Interested in working with integrations, API development and cloud-based solutions.
 
-- Core areas: Python programming, algorithms, data structures, machine learning, and database systems  
-- **Bachelor’s thesis:** *Tools for Detecting "Code Smells" in Python*
+I have practical experience with client–server development, networking and Linux-based environments, as well as personal projects within frontend development and system-level programming.
+
+Through my studies and projects, I have developed a strong understanding of code quality, system design and how to build robust and maintainable solutions. I am motivated by understanding how systems interact across services and platforms.
 
 ---
 
 ## 💻 Technical Skills
 
-![Tech Stack](https://img.icons8.com/clouds/100/000000/code.png)
+### Languages
+- Python (advanced)
+- JavaScript / TypeScript
+- R
+- C++
 
-**Languages**  
-- Python, JavaScript, C++, R  
-- Emphasis on object-oriented programming and code maintainability  
+### Web Development
+- React
+- HTML / JavaScript
+- Component-based UI development
 
-**AI & Data Science**  
-- Machine learning & deep learning (project experience)  
-- Statistical analysis in R  
-- Tools: Jupyter Notebook, TensorFlow, NumPy, Pandas  
+### Systems & Networking
+- Client–server development (TCP/UDP, sockets)
+- Distributed systems and communication between services
+- Linux (Ubuntu, Kali), terminal and scripting
+- Virtual environments (VMware)
 
-**Systems & Infrastructure**  
-- OS: Linux (Ubuntu, Kali), macOS, Windows  
-- Terminal scripting, ROS, Raspberry Pi, VirtualBox  
+### Databases & Cloud
+- MySQL (relational databases)
+- NoSQL
+- Interest in cloud platforms and modern infrastructure
 
-**Databases & Cloud**  
-- MySQL and NoSQL  
-- Azure (introductory experience)  
+### AI & Machine Learning
+- PyTorch (model development and training)
+- Backpropagation and gradient descent
+- Object detection / localization
+- Working with transformer-based models
+
+### Tools & Platforms
+- ROS (Robot Operating System)
+- Raspberry Pi
+- Git & GitHub
 
 ---
 
-## 🧠 Projects & Research
+## 🧠 Projects & Experience
 
-![Project](https://img.icons8.com/fluency/96/000000/artificial-intelligence.png)
-**🤖 AI Coursework Projects**  
-Built machine learning models using supervised learning techniques, focused on data preprocessing and performance tuning.
+- Developed client–server applications in Python using TCP/UDP sockets  
+- Built a simulated network environment demonstrating routing, segmentation and security  
+- Worked with robot systems using Raspberry Pi, ROS and Linux  
+- Developed React-based frontend applications  
+- Implemented and trained machine learning models in PyTorch  
 
 ---
 
-## 🌍 Languages
+## 🎓 Bachelor Thesis
 
-![Languages Icon](https://img.icons8.com/color/96/000000/language.png)
+**"A Comparison between metric-based and AI-based techniques for detecting code smells in Python"**
 
-- **Norwegian:** Native  
-- **English:** Fluent  
-- **French:** Intermediate  
+- Compared traditional metric-based methods and AI-based approaches  
+- Focused on code quality and maintainability  
+- Evaluated model performance using metrics such as precision and recall  
+- Analyzed research and approaches to automated code analysis  
 
 ---
 
 ## 📫 Contact
 
-![Contact Icon](https://img.icons8.com/color/96/000000/communication.png)
-
-📍 Bergen, Norway  
-📧 [okhelle@gmail.com](mailto:okhelle@gmail.com)  
-📱 +47 909 18 143  
-🔗 [LinkedIn](https://www.linkedin.com/in/ole-kristian-helle-a078aa1ab/)
-
----
-
-> 🚀 *Actively seeking opportunities in artificial intelligence, software engineering, and collaborative, research-oriented environments.*
+- LinkedIn: https://linkedin.com/in/ole-kristian-helle-a078aa1ab
+- GitHub: https://github.com/okhelle
